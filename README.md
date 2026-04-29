@@ -1,7 +1,7 @@
-# Agentic AI Satisfaction Predictor
+# 🤖 Agentic AI Satisfaction Predictor
 ---
 
-## Project Overview
+## 📌 Project Overview
 
 This project analyzes customer support ticket data to predict customer satisfaction levels.
 
@@ -11,11 +11,11 @@ Can customer satisfaction (Low, Medium, High) be predicted using service-related
 ### Goal:  
 Identify which factors influence customer satisfaction and explore patterns in the data.
 
-This submission includes work up to Stage 3 (Exploration). No modeling yet.  [oai_citation:0‡Agentic AI Satisfaction Predictor_Presentation.pptx](sediment://file_00000000cf54722f922d4154686b4864)
+This submission includes work up to Stage 3 (Exploration). No modeling yet.
 
 ---
 
-## Dataset
+## 📊 Dataset
 
 Source: Kaggle – Customer Support Ticket Satisfaction Analysis  
 
@@ -28,7 +28,7 @@ Target variable:
 
 ---
 
-## Features Used
+## 🧾 Features Used
 
 - issue_category  
 - priority  
@@ -40,7 +40,7 @@ Target variable:
 
 ---
 
-## Data Preparation
+## ⚙️ Data Preparation
 
 - Loaded dataset using pandas  
 - Checked:
@@ -50,13 +50,14 @@ Target variable:
   - missing values  
   - duplicates  
 
-## Cleaning:
+## 🧹 Cleaning
+
 - Removed duplicate rows  
 - Confirmed 0 missing values  
 
 ---
 
-## Key Observations
+## 📈 Key Observations
 
 - Dataset has no missing values  
 - Target variable is highly imbalanced  
@@ -77,7 +78,7 @@ Target variable:
 
 ---
 
-## Limitations
+## ⚠️ Limitations
 
 - Dataset is synthetic  
 - Strong class imbalance  
